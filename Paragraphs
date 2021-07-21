@@ -1,0 +1,24 @@
+<!-- This is paragraph -->
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <p>This is a paragraph. </p>
+        <p>This is another paragraph. </p>
+    </body>
+</html>
+<!-- End of paragraph -->
+
+<!-- This is line break -->
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <p>This is a paragraph. </p>
+        <p>This is another paragraph. </p>
+        <p>This is <br/> a line break </p>
+    </body>
+</html>
+<!-- End of line break -->
