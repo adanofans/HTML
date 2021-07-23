@@ -1,0 +1,22 @@
+<body>
+   <form></form>
+
+</body>
+
+Use the action attribute to point to a webpage that will load after the user submits the form.
+form action="http://www.sololearn.com"> 
+
+</form>
+
+<form>
+    <input type="text" name="username" /><br />
+    <input type="password" name="password" />
+</form>
+
+<input type="radio" name="gender" value="male" />Male <br />
+<input type="radio" name="gender" value="female" />Female <br />
+<!-- ini untuk point -->
+
+<input type="checkbox" name="gender" value="1" />Male <br />
+<input type="checkbox" name="gender" value="2" />Female <br />
+<!--
